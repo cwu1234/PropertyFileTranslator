@@ -1,0 +1,12 @@
+{
+  "uploadpage.header": "Télécharger le Fichier de Traduction",
+  "uploadpage.uploadmasterproperties": "Glisser-déposer le fichier .properties principal ici",
+  "uploadpage.uploadyourproperties": "Glisser-déposer votre fichier .properties ici",
+  "uploadpage.browsefiles": "Rechercher les fichiers",
+  "uploadpage.continuetotranslator": "Continuer à Traduire",
+
+  "translatorpage.header": "Tarigma Lasdfnguage Editor",
+  "translatorpage.key": "Clé",
+  "translatorpage.translation": "Traduction",
+  "translatorpage.export": "Exporter"
+}

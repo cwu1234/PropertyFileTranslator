@@ -1,0 +1,12 @@
+{
+  "uploadpage.header": "uploadpage.header",
+  "uploadpage.uploadmasterproperties": "uploadpage.uploadmasterproperties",
+  "uploadpage.uploadyourproperties": "uploadpage.uploadyourproperties",
+  "uploadpage.browsefiles": "uploadpage.browsefiles",
+  "uploadpage.continuetotranslator": "uploadpage.continuetotranslator",
+
+  "translatorpage.header": "translatorpage.header",
+  "translatorpage.key": "translatorpage.key",
+  "translatorpage.translation": "translatorpage.translation",
+  "translatorpage.export": "translatorpage.export"
+}

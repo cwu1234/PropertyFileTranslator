@@ -1,0 +1,12 @@
+{
+  "uploadpage.header": "Upload Translation Files",
+  "uploadpage.uploadmasterproperties": "Drag and drop master .properties file here",
+  "uploadpage.uploadyourproperties": "Drag and drop your .properties file here",
+  "uploadpage.browsefiles": "Browse Files",
+  "uploadpage.continuetotranslator": "Continue to Translator",
+
+  "translatorpage.header": "Tarigma Language Editor",
+  "translatorpage.key": "Key",
+  "translatorpage.translation": "Translation",
+  "translatorpage.export": "Export"
+}
